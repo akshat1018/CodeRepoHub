@@ -1,0 +1,1 @@
+CodeRepohHub is a web application that allows users to interact with Git Hub profiles and repositories. Users can log in via Git Hub, view their data, and filter repositories on the client side. The app ensures a smooth experience with secure authentication and robust error handling.
